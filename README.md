@@ -54,8 +54,8 @@ Moje piersze tabele:
 
 | Komenda | Opis |
 | :---: | :---: |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Status gita | Lista wszystkich nowych lub zmienionych plików |
+| Różnice gita| Pokazuje różnice gita, które nie uwzględniono w etapach |
 
 | Komenda | Opis |
 | ---: | :---|
