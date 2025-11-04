@@ -61,4 +61,4 @@ Moje piersze tabele:
 | ---: | :---|
 | Dwukropek | \: |
 | Dywiz | \- |
-| Przecinek| \,\ |
+| Przecinek| \, |
