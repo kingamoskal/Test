@@ -46,4 +46,19 @@ Otocz go trzema znakami ``` (w osobnych wierszach).
 ## 1.6.	Linki
 Może się zdarzyć, że trzeba będzie coś podlinkować, o… np. stronę [Uniwersytetu Jagiellońskiego](https://www.uj.edu.pl). Aby to zrobić, wpisz tekst w nawias kwadratowy, zaś adres URL zaraz obok – w nawias okrągły. 
 ## 1.7.	Tabele
-Tabele to nie taka prosta sprawa, by je opisać jednym zdaniem. Zrobimy, jak starczy czasu. 
+Moje piersze tabele:
+| Pierszy nagłówek | Drugi nagłówek |
+| ------------- | ------------- |
+| Treść komórki  | Treść komórki  |
+| Treść komórki  | Treść komórki  |
+
+| Komenda | Opis |
+| :---: | :---: |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+**| Komenda | Opis |**
+| ---: | :---|
+| Dwukropek | \: |
+| Dywiz | \- |
+| Przecinek| \,\ |
